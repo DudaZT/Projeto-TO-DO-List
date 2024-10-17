@@ -12,21 +12,6 @@ Para começar a usar este projeto, siga os passos abaixo:
    `git clone <URL do repositório>`
 
 
-## Estrutura de Pastas
-
-A estrutura padrão do projeto é a seguinte:
-
-TO DO List/
-├── src/    # Pasta para armazenar os arquivos de código-fonte
-│   ├── Main.java   # Classe principal que executa o programa.
-│   ├── ToDoItem.java   # Representa um item da lista de tarefas.
-│   ├── ToDoList.java   # Representa uma lista de tarefas.
-│   └── ToDoManager.java    # Gerencia várias listas de tarefas.
-├── lib/
-├── bin/
-└── README.md
-
-
 ## Funcionalidades
 
 - **Criar várias listas de tarefas**
