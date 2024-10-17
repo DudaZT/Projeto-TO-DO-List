@@ -21,9 +21,9 @@ Para começar a usar este projeto, siga os passos abaixo:
 
 ## 🌱 Funcionalidades Futuras
 
-- **💾 Persistência de dados: Salvar as listas e itens em arquivo ou banco de dados para mantê-los após o encerramento da aplicação.**
-- **🖼️ Interface gráfica: Implementar uma interface gráfica usando JavaFX ou Swing.**
-- **🔔 Notificações: Adicionar funcionalidades de lembrete para as tarefas.**
+- **💾 Salvar as listas e itens em arquivo ou banco de dados para mantê-los após o encerramento da aplicação.**
+- **🖼️ Implementar uma interface gráfica usando JavaFX ou Swing.**
+- **🔔 Adicionar funcionalidades de lembrete para as tarefas.**
 
 
 ## 🛠️ Organização do Desenvolvimento
