@@ -12,9 +12,7 @@ Para começar a usar este projeto, siga os passos abaixo:
 1. **Clone o repositório**:
 
    `git clone <URL do repositório>`
-
-
-
+<br><br>
 
 ## ✨ Funcionalidades
 
