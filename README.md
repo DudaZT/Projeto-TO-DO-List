@@ -1,9 +1,9 @@
-# TO DO List - Gerenciador de Tarefas em Java
+# 📝 TO DO List - Gerenciador de Tarefas em Java
 
 Bem-vindo ao projeto **TO DO List**! Este é um gerenciador de tarefas simples desenvolvido em Java, onde você pode criar listas de tarefas e adicionar itens a essas listas.
 
 
-## Começando
+## 🚀 Começando
 
 Para começar a usar este projeto, siga os passos abaixo:
 
@@ -12,26 +12,26 @@ Para começar a usar este projeto, siga os passos abaixo:
    `git clone <URL do repositório>`
 
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-- **Criar várias listas de tarefas**
-- **Adicionar e remover itens**
-- **Marcar itens como concluídos ou pendentes**
-
-
-## Funcionalidades Futuras
-
-- **Persistência de dados: Salvar as listas e itens em arquivo ou banco de dados para mantê-los após o encerramento da aplicação.**
-- **Interface gráfica: Implementar uma interface gráfica usando JavaFX ou Swing.**
-- **Notificações: Adicionar funcionalidades de lembrete para as tarefas.**
+- **✅ Criar várias listas de tarefas**
+- **➕ Adicionar e remover itens**
+- **🔄 Marcar itens como concluídos ou pendentes**
 
 
-## Organização do Desenvolvimento
+## 🌱 Funcionalidades Futuras
+
+- **💾 Persistência de dados: Salvar as listas e itens em arquivo ou banco de dados para mantê-los após o encerramento da aplicação.**
+- **🖼️ Interface gráfica: Implementar uma interface gráfica usando JavaFX ou Swing.**
+- **🔔 Notificações: Adicionar funcionalidades de lembrete para as tarefas.**
+
+
+## 🛠️ Organização do Desenvolvimento
 
 O desenvolvimento foi organizado no GitHub utilizando o GitHub Projects para gerenciar tarefas. Cada funcionalidade foi dividida em pequenas atividades, e as tarefas foram movidas pelas colunas A Fazer, Em Execução e Feito.
 
 
-## Como Executar o Projeto
+## 💻 Como Executar o Projeto
 
 Para compilar e executar o projeto, siga estes passos:
 
@@ -48,7 +48,7 @@ Para compilar e executar o projeto, siga estes passos:
     `java Main`
 
 
-## Contribuições
+## 🤝 Contribuições
 
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, por favor, siga estas etapas:
 
@@ -59,7 +59,7 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, p
 5. Abra um Pull Request.
 
 
-## Contato
+## 📬 Contato
 
 Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
