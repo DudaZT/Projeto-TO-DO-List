@@ -9,22 +9,7 @@ Para começar a usar este projeto, siga os passos abaixo:
 
 1. **Clone o repositório**:
 
-   git clone <URL do repositório>
-
-
-## Estrutura de Pastas
-
-A estrutura padrão do projeto é a seguinte:
-
-TO DO List/
-├── src/    # Pasta para armazenar os arquivos de código-fonte
-│   ├── Main.java   # Classe principal que executa o programa.
-│   ├── ToDoItem.java   # Representa um item da lista de tarefas.
-│   ├── ToDoList.java   # Representa uma lista de tarefas.
-│   └── ToDoManager.java    # Gerencia várias listas de tarefas.
-├── lib/           
-├── bin/          
-└── README.md
+   `git clone <URL do repositório>`
 
 
 ## Funcionalidades
@@ -52,15 +37,15 @@ Para compilar e executar o projeto, siga estes passos:
 
 1. Navegue até a pasta `src` no terminal:
 
-    cd src
+    `cd src`
 
 2. Compile o Projeto:
 
-    javac Main.java
+    `javac Main.java`
 
 3. Execute o Programa:
 
-    java Main
+    `java Main`
 
 
 ## Contribuições
