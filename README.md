@@ -3,6 +3,8 @@
 Bem-vindo ao projeto **TO DO List**! Este é um gerenciador de tarefas simples desenvolvido em Java, onde você pode criar listas de tarefas e adicionar itens a essas listas.
 
 
+
+
 ## 🚀 Começando
 
 Para começar a usar este projeto, siga os passos abaixo:
@@ -12,11 +14,15 @@ Para começar a usar este projeto, siga os passos abaixo:
    `git clone <URL do repositório>`
 
 
+
+
 ## ✨ Funcionalidades
 
 - **✅ Criar várias listas de tarefas**
 - **➕ Adicionar e remover itens**
 - **🔄 Marcar itens como concluídos ou pendentes**
+
+
 
 
 ## 🌱 Funcionalidades Futuras
@@ -26,9 +32,13 @@ Para começar a usar este projeto, siga os passos abaixo:
 - **🔔 Adicionar funcionalidades de lembrete para as tarefas.**
 
 
+
+
 ## 🛠️ Organização do Desenvolvimento
 
 O desenvolvimento foi organizado no GitHub utilizando o GitHub Projects para gerenciar tarefas. Cada funcionalidade foi dividida em pequenas atividades, e as tarefas foram movidas pelas colunas A Fazer, Em Execução e Feito.
+
+
 
 
 ## 💻 Como Executar o Projeto
@@ -46,6 +56,8 @@ Para compilar e executar o projeto, siga estes passos:
 3. Execute o Programa:
 
     `java Main`
+
+
 
 
 ## 🤝 Contribuições
