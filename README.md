@@ -9,7 +9,7 @@ Para começar a usar este projeto, siga os passos abaixo:
 
 1. **Clone o repositório**:
 
-   git clone <URL do repositório>
+   `git clone <URL do repositório>`
 
 
 ## Estrutura de Pastas
@@ -52,15 +52,15 @@ Para compilar e executar o projeto, siga estes passos:
 
 1. Navegue até a pasta `src` no terminal:
 
-    cd src
+    `cd src`
 
 2. Compile o Projeto:
 
-    javac Main.java
+    `javac Main.java`
 
 3. Execute o Programa:
 
-    java Main
+    `java Main`
 
 
 ## Contribuições
